@@ -1,0 +1,38 @@
+.barra{
+  background-color:#407C2A;
+  width: 100%;
+  height: 100px;
+}
+.logo{
+
+  width: 80vh;
+  height: 9vh;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.modulo{
+  width: 400px;
+  height: 30px;
+  color: white;
+  border-right: 30px solid transparent;
+  border-bottom: 30px solid #305C20;
+
+
+
+}
+.iconos{
+
+  width: 400;
+  height: 30px;
+  border-top: 0px solid transparent;
+  border-left: 100px solid transparent;
+  border-bottom: 50px solid #f0ad4e;
+}
+.moduloPrincipal{
+  width: 100%;
+  background-color: #FFBE09;
+
+}
+
+
+

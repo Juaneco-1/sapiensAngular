@@ -1,0 +1,22 @@
+.asignaturas{
+  margin-top: 25px;
+  width: 270px;
+  height: 100vh;
+  background-color:#003444;
+  color: white;
+}
+
+.titulo{
+  background-color: #00232E;
+  width: 270px;
+  height: 40px;
+}
+
+.sidebar{
+
+
+}
+.fuente{
+  font-family: 'Yaldevi', sans-serif;
+
+}
