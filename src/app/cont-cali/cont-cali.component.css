@@ -1,0 +1,23 @@
+.contenedor{
+  margin-top: 100px;
+  height: 500px;
+  width: 100%;
+}
+.titulo{
+  background-color:#003444;
+  height: 30px;
+  color: white;
+}
+.tituloRegistro{
+  margin-top: 30px;
+  width: 100%;
+  background-color: turquoise;
+  height: 40px;
+  color: white;
+  display: inline-flex;
+
+
+}
+
+
+
